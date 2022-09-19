@@ -1,0 +1,15 @@
+{
+    "name": "buqi/tp6-excel",
+    "autoload": {
+        "psr-4": {
+            "User\\Tp6Excel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "buqi",
+            "email": "1300789166@qq.com"
+        }
+    ],
+    "require": {}
+}
